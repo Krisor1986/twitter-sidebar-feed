@@ -1,0 +1,4 @@
+project:
+  framework: React 18
+  css: Tailwind 3.2
+  environment: production
